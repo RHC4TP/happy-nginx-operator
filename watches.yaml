@@ -1,0 +1,5 @@
+---
+- version: v1alpha1
+  group: happy-nginx.example.com
+  kind: HappyNginx
+  role: /opt/ansible/roles/happynginx

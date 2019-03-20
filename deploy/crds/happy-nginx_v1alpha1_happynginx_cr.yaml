@@ -1,0 +1,7 @@
+apiVersion: happy-nginx.example.com/v1alpha1
+kind: HappyNginx
+metadata:
+  name: example-happynginx
+spec:
+  # Add fields here
+  size: 3
